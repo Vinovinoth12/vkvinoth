@@ -22,3 +22,13 @@ else
 System.out.println( "not a perfect number.");   
 }  
 }
+
+
+
+
+
+Read a number (n)
+Find the factors of the given number (n) by using a loop while.
+
+If both are equal, then the given number is a perfect number.
+Else, the number is not a perfect number..
