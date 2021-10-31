@@ -16,3 +16,16 @@ public class Main {
 	  	
 	}	
 }
+
+
+
+
+
+X++, y--;
+Repeat step 1 until y become 0
+ 
+For example;
+  1. X=4,y=3
+ 2. X=5,y=2
+ 3.X=6,y=1
+4.X=7,y=0 stop
