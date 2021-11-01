@@ -8,3 +8,9 @@ elif (num2 >= num1) and (num2 >= num3):
    print(" num 2 is largest number:", num2) 
 else:
    print("  num3 is largest number:", num3)
+Step 1 : start the program
+Step 2: declare variable num 1, num2, num3, largest value.
+Step 3: if num 1> num 2 go to step 4 otherwise go to step 5 
+Step 4: if num 1>num 3 SET largest value =num1 otherwise largest value = num 3 
+Step 5: if num 2> num 3 SET largest value= num 2 otherwise largest value= num 3
+Step 6: end
